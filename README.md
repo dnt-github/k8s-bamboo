@@ -1,2 +1,1 @@
-# k8s-bamboo
-For testing bamboo
+# DotNet-core-app-to-Kubernetes
